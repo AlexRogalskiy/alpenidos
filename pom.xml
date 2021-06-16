@@ -52,7 +52,7 @@
         <spring-security-test.version>5.1.5.RELEASE</spring-security-test.version>
 
         <camel.version>3.7.1</camel.version>
-        <rollbar.version>1.4.1</rollbar.version>
+        <rollbar.version>1.7.8</rollbar.version>
 
         <apache.commons.math.version>3.6.1</apache.commons.math.version>
         <apache.commons.compress.version>1.19</apache.commons.compress.version>
